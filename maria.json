@@ -1,0 +1,14 @@
+"secondLevelChannel"{
+		"number_of_channels": 2,
+		"name": "first level channel auto",
+		"title": "first level channel title",
+		"description": "first level channel description",
+		"requires_pin": "false",
+		"is_special_channel": "false",
+		"content_type": "Both",
+		"live_default_order": "Title",
+		"vod_default_order": "Title",
+		"enabled": "true",
+		"available_from": "1473631200",
+		"available_until": "3941996400"
+	}
